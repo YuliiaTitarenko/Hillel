@@ -6,5 +6,5 @@ print('\nExam passed: {}'.format(exam_passed))
 
 text = 'string'
 edit = 'upper'
-text=text.upper() if edit == 'upper' else text
+text = text.upper() if edit == 'upper' else text
 print('\nText: {}'.format(text))
