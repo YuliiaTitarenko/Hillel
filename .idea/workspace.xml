@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52763004-c68d-4b35-9022-35364a55d3bd" name="Changes" comment="Added main.py file">
-      <change afterPath="$PROJECT_DIR$/HW_9/Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_9/Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_9/List comprehension.py" afterDir="false" />
+    <list default="true" id="52763004-c68d-4b35-9022-35364a55d3bd" name="Changes" comment="HW_9">
+      <change afterPath="$PROJECT_DIR$/HW_10/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11/Abstract class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_Functions1/Sum_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,28 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Decorators">
+  <component name="RunManager" selected="Python.Polymorphism">
+    <configuration name="Abstract class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hillel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_11/Abstract class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_9/Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_10/Encapsulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Season" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,32 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_7/Season.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sum_range (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hillel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_Functions1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_Functions1/Sum_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_10/Polymorphism.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Polymorphism" />
+        <item itemvalue="Python.Abstract class" />
+        <item itemvalue="Python.Encapsulation" />
         <item itemvalue="Python.Decorators" />
         <item itemvalue="Python.List comprehension" />
-        <item itemvalue="Python.Lambda" />
-        <item itemvalue="Python.Season" />
-        <item itemvalue="Python.Sum_range (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685119413392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW_9">
+      <created>1687717508232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687717508232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -219,7 +224,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hillel_1" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -233,7 +238,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added main.py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main.py file" />
+    <MESSAGE value="HW_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
