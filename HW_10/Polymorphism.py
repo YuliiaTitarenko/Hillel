@@ -1,26 +1,21 @@
-# 1.1 Створити два класи Car та Bus, обидва мають мати 2 методи wheels() та mode_of_transport(), які виводять в консоль
-# відповідно, для методу wheels() - 4 та 8, а для методу mode_of_transport() -  "Private usage", "Public usage".
-class Vehicle:
-    def wheels(self, wheels):
-        return wheels
-    def mode_of_transport(self, mode_of_transport):
-        return mode_of_transport
-class Car(Vehicle):
+# # 1.1 Створити два класи Car та Bus, обидва мають мати 2 методи wheels() та mode_of_transport(), які виводять в консоль
+# # відповідно, для методу wheels() - 4 та 8, а для методу mode_of_transport() -  "Private usage", "Public usage".
+class Car:
     def wheels(self, wheels = 4):
         return wheels
     def mode_of_transport(self, mode_of_transport = 'Private usage'):
         return mode_of_transport
 
-class Bus(Vehicle):
+class Bus:
     def wheels(self, wheels = 8):
         return wheels
     def mode_of_transport(self, mode_of_transport = 'Public usage'):
         return mode_of_transport
-
-# 1.2 Створити об'єкти цих класів, покласти їх у список а потім пройшовшись циклом for по списку та викликати методи на кожному елементу списку.
+#
+# 1.2 Створити об'єкти цих класів, покласти їх у список а потім пройшовшись циклом for по списку та викликати методи
+# на кожному елементу списку.
 car = Car()
 bus  = Bus()
-
 
 vehicles = [car, bus]
 for vehicle in vehicles:
